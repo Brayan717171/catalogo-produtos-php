@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catálogo de Produtos</title>
+    <title>Catálogo de Produtos do Brayan</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
